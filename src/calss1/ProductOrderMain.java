@@ -1,4 +1,4 @@
-package calss;
+package calss1;
 
 public class ProductOrderMain {
     public static void main(String[] args){

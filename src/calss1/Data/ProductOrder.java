@@ -1,4 +1,4 @@
-package calss;
+package calss1.Data;
 
 public class ProductOrder {
     String name;
