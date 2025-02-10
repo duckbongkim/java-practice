@@ -1,4 +1,5 @@
 package calss1.static2;
+import calss1.static2.Car.*;
 
 public class CarMain {
     public static void main(String[] args) {
